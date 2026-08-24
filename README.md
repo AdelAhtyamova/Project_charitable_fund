@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>
-      <img width="1624" height="1374" alt="Ключевые показатели БФ Воронье гнездо (1)" src="https://github.com/user-attachments/assets/c1605627-075e-4c4f-a27e-4cb2b11d7205" />
+      <img width="607" height="386" alt="Snimok_ekrana_2026-08-14_110218" src="https://github.com/user-attachments/assets/da97f51b-d972-4252-bace-94622c0445d2" />
     </td>
   </tr>
 </table>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td>
-      [Вставьте скриншот Power BI 2 здесь]
+      <img width="603" height="386" alt="Snimok_ekrana_2026-08-14_110251" src="https://github.com/user-attachments/assets/f2046971-1886-48f7-948d-6b5c79a43711" />
     </td>
   </tr>
 </table>
