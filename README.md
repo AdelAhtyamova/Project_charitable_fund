@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>
-      <img width="607" height="386" alt="Snimok_ekrana_2026-08-14_110218" src="https://github.com/user-attachments/assets/da97f51b-d972-4252-bace-94622c0445d2" />
+      <img width="800" height="500" alt="Snimok_ekrana_2026-08-14_110218" src="https://github.com/user-attachments/assets/da97f51b-d972-4252-bace-94622c0445d2" />
     </td>
   </tr>
 </table>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td>
-      <img width="603" height="386" alt="Snimok_ekrana_2026-08-14_110251" src="https://github.com/user-attachments/assets/f2046971-1886-48f7-948d-6b5c79a43711" />
+      <img width="800" height="500" alt="Snimok_ekrana_2026-08-14_110251" src="https://github.com/user-attachments/assets/f2046971-1886-48f7-948d-6b5c79a43711" />
     </td>
   </tr>
 </table>
