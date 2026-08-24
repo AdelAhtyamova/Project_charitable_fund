@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td>
-      <img width="1624" height="1374" alt="Ключевые показатели БФ Воронье гнездо (1)" src="https://github.com/user-attachments/assets/c1605627-075e-4c4f-a27e-4cb2b11d7205" />
+      <img width="1300" height="1100" alt="Ключевые показатели БФ Воронье гнездо (1)" src="https://github.com/user-attachments/assets/c1605627-075e-4c4f-a27e-4cb2b11d7205" />
     </td>
   </tr>
 </table>
