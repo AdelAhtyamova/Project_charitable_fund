@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>
-      [Вставьте скриншот Power BI 1 здесь] 
+      <img width="1624" height="1374" alt="Ключевые показатели БФ Воронье гнездо (1)" src="https://github.com/user-attachments/assets/c1605627-075e-4c4f-a27e-4cb2b11d7205" />
     </td>
   </tr>
 </table>
